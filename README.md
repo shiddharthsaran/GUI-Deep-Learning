@@ -1,2 +1,2 @@
 # GUI-Deep-Learning-Toolkit
-GUI-Deep-Learning-Toolkit used for splitting dataset in train and test images, annotate them using labelimg and specify CNN parameters using Kivy.
+GUI-Deep-Learning-Toolkit used for splitting dataset in train and test images, annotating them using labelimg and specifying CNN parameters using Kivy.
